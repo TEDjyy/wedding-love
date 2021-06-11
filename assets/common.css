@@ -1,16 +1,5 @@
 ﻿@charset "UTF-8"; /*@charset "euc-kr"; */
 
-/*UI CSS*/
-@import url("/resources/css/ui/selectric_default.css");
-@import url("/resources/css/ui/scrollbar.css");
-
-/************************************************************************
- * 최적화       : html5
- * 서비스       : ***** 사이트 공통
- * 최초작성일   : 140101
- * 작성자       : ***
-************************************************************************/
-
 /*■■ 채널의 기본 element 정의 ■■*/
 /* html5 element make
 ----------------------- */
